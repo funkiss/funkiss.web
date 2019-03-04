@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Funkiss</title>
+
+    <!--- iconos--->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!---css--->
+<link rel="stylesheet" href="/css/servicios.css">
+
+
+<!--- slider--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+  </head>
+  <body>
+
+
+    <div id="wrapper">
+
+        <!-- BANNER WRAPPER -->
+        <div id="banner-wrapper">
+            <header>
+             <div id="header-inner">
+              <a href= "index.html" id= "logo">
+              <img src="img/ap/ap0.png" alt= "Funkiss.com">
+              </a>
+              <nav>
+                <a href="#" id="menu-icon">
+                  <i class="fa fa-bars"></i>
+                </a>
+                <ul>
+                  <li>
+                    <a href="index.html" class="button1" class= "current"> Información </a>
+                  </li>
+                  <li>
+                    <a href="servicios.html" class= "button2 "> Servicios </a>
+                  </li>
+                  <li>
+                    <a href="Productos.html" class="button3"> Productos </a>
+                  </li>
+                  <li>
+                    <a href="qys.html" class="button4">  Contacto </a>
+                  </li>
+                </ul>
+                   </nav>
+              </div>
+          </header>
+</br>
+<br>
+<center>
+  <br></br>
+  <br></br>
+  <br></br>
+<div class="borde">
+
+    <br><center><h1>Servicios</h1></center></br>
+    <h2>En esta sección usted podrá encontrar los servicios que se prestan en esta empresa.</h2> </br>
+<h2> Ventas al mayor. </h2>
+<br>
+<p> En ambas tiendas usted puede tener un descuento a partir de 3 piezas de cualquier modelo. Si va por una compra una cantidad de piezas considerable, usted podrá obtener un descuento mas significatvo (en relación a la cantidad que compre). Puede pagar en tarjeta o en efectivo (preferiblemente).</p>
+</br>
+<br> <h2> Encargos y envío. </h2> </br>
+<p>Por Facebook y WhatsApp usted podrá solicitar un envío a donde usted desee por un precio adicional de envío.</P>
+<br>
+<h2> Sistema de apartado. </h2>
+<br>
+<p> Con el pago previo de un 50% de la mercancía se le podrá apartar. Este servicio a su vez da la oportunidad de que se pueda pagar por partes. (solicitar número de cuenta personalmente) </p>
+</br>
+
+<ul>
+  <h3>
+    <li>
+      BAC San José.
+    </li>
+    <li>
+      Banco Nacional.
+    </li>
+    <li>
+      Banco de Costa Rica.
+    </li>
+  </h3>
+</ul>
+</div>
+ </center>
+</br>
+
+<!---footer--->
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+
+<footer>
+<div class ="icon-text-text">
+<ul class="social">
+  <li>
+    <a href="mailto:funkissheredia@gmail.com">
+      <i class="fa fa-envelope-o" ></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/pages/category/Clothing-Store/Fun-kiss-Paseo-de-las-Flores-520586444732665/">
+      <i class= "fa fa-facebook" ></i>
+    </a>
+  </li>
+</ul>
+</div>
+</footer>
+<center>
+<footer>
+  <div class="footer2">
+   <p> &copy; Funkiss 2019 </p>
+   </div>
+</footer>
+<center>
+
+  </body>
+</html>
