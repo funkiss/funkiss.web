@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Funkiss</title>
+
+    <!--- iconos--->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!---css--->
+<link rel="stylesheet" href="/css/style.css">
+
+
+<!--- slider--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+  </head>
+  <body>
+
+
+    <div id="wrapper">
+
+        <!-- BANNER WRAPPER -->
+        <div id="banner-wrapper">
+            <header>
+             <div id="header-inner">
+              <a href= "index.html" id= "logo">
+              <img src="img/ap/ap0.png" alt= "Funkiss.com">
+              </a>
+              <nav>
+                <a href="#" id="menu-icon">
+                  <i class="fa fa-bars"></i>
+                </a>
+                <ul>
+                  <li>
+                    <a href="#001" class="button1" class= "current"> Información </a>
+                  </li>
+                  <li>
+                    <a href="servicios.html" class= "button1 "> Servicios </a>
+                  </li>
+                  <li>
+                    <a href="Productos.html" class="button1"> Productos </a>
+                  </li>
+                  <li>
+                    <a href="qys.html" class="button1"> Contacto </a>
+                  </li>
+                </ul>
+                   </nav>
+              </div>
+          </header>
+
+
+<!---slider--->
+    <div id="slide-wrap">
+     <section class= "slider">
+      <ul class= "ap2">
+        <li> <img src= img/ap/ap2.png width="50%"alt=""></li>
+        <li> <img src= img/ap/ap3.png width="50%"alt=""></li>
+        <li> <img src= img/ap/ap4.png width="50%"alt=></li>
+        <li> <img src= img/ap/ap5.png width="50%"alt= ></li>
+        <li> <img src= img/ap/ap6.png width="50%"alt= ></li>
+        <li> <img src= img/ap/ap7.png width="50%"alt= ></li>
+        <li> <img src= img/ap/ap8.png width="50%"alt= ></li>
+        <li> <img src= img/ap/ap9.png width="50%"alt=""></li>
+        <li> <img src= img/ap/ap10.png width="50%"alt=""></li>
+        <li> <img src= img/ap/ap11.png width="50%"alt=""></li>
+        <li> <img src= img/ap/ap12.png width="50%"alt=""></li>
+      </ul>
+    </section>
+    </div>
+  </div>
+
+
+<center>
+<div class="borde">
+  <br>
+      <div class="one-third" id= 001>
+  <br><center> <h1>¿Quienes somos?</h1> </center> </br>
+     <p> Somos una empresa profesional de productos para dama de ventas al mayor y al detalle. Manejamos mercancía para dama a buen precio como de excelente calidad. La disposición, la solidaridad y el respeto es lo que caracteriza el buen servicio hacia el cliente. Ofrecemos servicios de envío, al mayor y al detalle y sistemas de apartado. Distribuimos mercadería rápidamente a cualquier parte de Heredia o San José. Manejamos sistema de apartado (pago previo de la mercadería). Aceptamos efectivo y débito.</p>
+  </br>
+
+
+  <br>
+  <center>
+  <section>
+    <br> <center> <h2> ¿Dónde nos ubicamos? </center></h2> </br>
+  <br> <h2>Tienda</h2> </br>
+  <img src= " img/ap/ap00.jpeg" width= "10%">
+  </br>
+      <p> Mall Paseo de las Flores, Tercera etapa local 22A.
+  Heredia</p>
+
+
+
+  <br> <center><h2> Kiosco </h2></center>
+  </br>
+  <img src= "img/ap/ap1.png">
+  <br>
+  <p> Mall Paseo de las Flores, Primera etapa Local 12B. </p>
+  </br>
+  </div>
+  </section>
+  </center>
+</div>
+  </br>
+</center>
+
+<!---footer--->
+
+<footer>
+<div class ="icon-text-text">
+<ul class="social">
+  <li>
+    <a href="mailto:funkissheredia@gmail.com">
+      <i class="fa fa-envelope-o" ></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.facebook.com/pages/category/Clothing-Store/Fun-kiss-Paseo-de-las-Flores-520586444732665/">
+      <i class= "fa fa-facebook" ></i>
+    </a>
+  </li>
+</ul>
+</div>
+</footer>
+
+
+<center>
+<footer>
+  <div class="footer2">
+   <p> &copy; Funkiss 2019 </p>
+   </div>
+</footer>
+</center>
+
+<!---scripts--->
+<script>
+
+$(document).ready(function(){
+      $('.ap1').bxSlider({
+        mode: 'fade'
+      })
+    })
+
+    $(document).ready(function(){
+          $('.ap2').bxSlider({
+            mode: 'fade'
+          })
+        })
+
+        $(document).ready(function(){
+              $('.ap3').bxSlider({
+                mode: 'fade'
+              })
+            })
+
+            $(document).ready(function(){
+                  $('.ap4').bxSlider({
+                    mode: 'fade'
+                  })
+                })
+                $(document).ready(function(){
+                      $('.ap5').bxSlider({
+                        mode: 'fade'
+                      })
+                    })
+                    $(document).ready(function(){
+                          $('.ap6').bxSlider({
+                            mode: 'fade'
+                          })
+                        })
+                        $(document).ready(function(){
+                              $('.ap7').bxSlider({
+                                mode: 'fade'
+                              })
+                            })
+                            $(document).ready(function(){
+                                  $('.ap8').bxSlider({
+                                    mode: 'fade'
+                                  })
+                                })
+                                $(document).ready(function(){
+                                      $('.ap9').bxSlider({
+                                        mode: 'fade'
+                                      })
+                                    })
+                                    $(document).ready(function(){
+                                          $('.ap10').bxSlider({
+                                            mode: 'fade'
+                                          })
+                                        })
+
+
+</script>
+  </body>
+</html>
