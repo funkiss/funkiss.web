@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Funkiss</title>
+
+    <!--- iconos--->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!---css--->
+<link rel="stylesheet" href="/css/Prod.css">
+
+
+<!--- slider--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+  </head>
+  <body>
+
+
+    <div id="wrapper">
+
+        <!-- BANNER WRAPPER -->
+        <div id="banner-wrapper">
+            <header>
+             <div id="header-inner">
+              <a href= "index.html" id= "logo">
+              <img src="img/ap/ap0.png" alt= "Funkiss.com">
+              </a>
+              <nav>
+                <a href="#" id="menu-icon">
+                  <i class="fa fa-bars"></i>
+                </a>
+
+                <ul>
+                  <li>
+                    <a href="index.html" class="button1" class= "current"> Información </a>
+                  </li>
+                  <li>
+                    <a href="servicios.html" class= "button1"> Servicios </a>
+                  </li>
+                  <li>
+                    <a href="Productos.html" class="button1"> Productos </a>
+                  </li>
+                  <li>
+                    <a href="qys.html" class="button1">  Contacto </a>
+                  </li>
+                </ul>
+                   </nav>
+              </div>
+          </header>
+
+        <br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+        <br><br>
+<center>
+
+        <div class="borde">
+
+       <br><center> <h2>Productos</h2> </center> </br>
+           <p>En esta sección usted podrá observar nuestro actualizado catálogo del cual tenemos variedades en cuanto a mercancía para su interés, tenemos cuatro secciones: Billeteras, Bisutería, Bolsos y Mochilas. Cada una consta de dos a mas catalogos de mercancía con diferentes colores para su interés, actualizamos el inventario cada semana. ¡Disfrute! </p>
+
+           <div class="second-header">
+             <ul>
+               <br>
+               <li>
+                 <a href="Billeteras.html" class="button2"> Billeteras </a>
+               </li>
+               </br>
+               <li>
+                 <a href="Bisutería.html" class="button2"> Bisutería </a>
+               </li>
+               <br>
+               <li>
+                 <a href="Bolsos.html" class="button2"> Bolsos </a>
+               </li>
+               </br>
+               <li>
+                 <a href="Bolsos.html" class="button2"> Mochilas </a>
+               </li>
+             </ul>
+           </div>
+
+                        </div>
+                      </br>
+
+                        <br><br>
+                        <br><br>
+                        <br><br>
+                        <br><br>
+                        <br><br>
+                        <br><br>
+                        <br><br>
+                        <br><br>
+                        <br><br>
+                        <br><br>
+                        <br><br>
+                        <br><br>
+
+
+                             <!---footer--->
+
+                             <footer>
+                             <div class ="icon-text-text">
+                             <ul class="social">
+                               <li>
+                                 <a href="mailto:funkissheredia@gmail.com">
+                                   <i class="fa fa-envelope-o" ></i>
+                                 </a>
+                               </li>
+                               <li>
+                                 <a href="https://www.facebook.com/pages/category/Clothing-Store/Fun-kiss-Paseo-de-las-Flores-520586444732665/">
+                                   <i class= "fa fa-facebook" ></i>
+                                 </a>
+                               </li>
+                             </ul>
+                             </div>
+                             </footer>
+
+
+                             <center>
+                             <footer>
+                               <div class="footer2">
+                                <p> &copy; Funkiss 2019 </p>
+                                </div>
+                             </footer>
+                             </center>
+
+  </body>
+</html>
