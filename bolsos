@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Bolsos</title>
+
+    <!--- iconos--->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!---css--->
+<link rel="stylesheet" href="/css/bol.css">
+
+
+<!--- slider--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+  </head>
+  <body>
+
+
+    <div id="wrapper">
+
+        <!-- BANNER WRAPPER -->
+        <div id="banner-wrapper">
+            <header>
+             <div id="header-inner">
+              <a href= "index.html" id= "logo">
+              <img src="img/ap/ap0.png" alt= "Funkiss.com">
+              </a>
+              <nav>
+                <a href="#" id="menu-icon">
+                  <i class="fa fa-bars"></i>
+                </a>
+                <ul>
+                  <li>
+                    <a href="index.html" class="button" class= "current"> Información </a>
+                  </li>
+                  <li>
+                    <a href="servicios.html" class= "button"> Servicios </a>
+                  </li>
+                  <li>
+                    <a href="Productos.html" class="button"> Productos </a>
+                  </li>
+                  <li>
+                    <a href="qys.html" class="button"> Contacto </a>
+                  </li>
+                </ul>
+                   </nav>
+              </div>
+          </header>
+<br>
+<center>
+  <div class="borde">
+<center ><h1> Bolsos </h1> </center>
+<section>
+<br> <h2> Bolso triples </h2> </br>
+<p> le ofrecemos lo mejor en calidad en cuanto a bolsos ya que son de cuero síntetico, un material que a diferencia de la cuerina no se escarpela. El bolso grande posee entre 5 a 7 espacios para guardar objetos pequeños. el bolso mediano posee 2 espacios para guardar objetos pequeños y el pequeño puede almacenar monedas. ¡por esta semana estamos dando tres articulos por uno, por 19.900 colones!</p>
+</div>
+</br>
+</section>
+</div>
+</center>
+</br>
+<!---slider--->
+<br>
+<center>
+      <div id="slide-wrap">
+       <section class= "slider">
+        <ul class= "a1">
+          <li> <img src= img/M/Bolso/a1.jpeg width="10%"alt= ""></li>
+          <li> <img src= img/M/Bolso/a2.jpeg width="10%"alt= ""></li>
+          <li> <img src= img/M/Bolso/a3.jpeg width="10%"alt= ""></li>
+          <li> <img src= img/M/Bolso/a4.jpeg width="10%"alt= ""></li>
+          <li> <img src= img/M/Bolso/a5.jpeg width="10%"alt= ""></li>
+          <li> <img src= img/M/Bolso/a6.jpeg width="10%"alt= ""></li>
+          <li> <img src= img/M/Bolso/a7.jpeg width="10%"alt= ""></li>
+          <li> <img src= img/M/Bolso/a8.jpeg width="10%"alt= ""></li>
+          <li> <img src= img/M/Bolso/a9.jpeg width="10%"alt= ""></li>
+          <li> <img src= img/M/Bolso/a10.jpeg width="10%"alt= ""></li>
+          <li> <img src= img/M/Bolso/a11.jpeg width="10%"alt= ""></li>
+          <li> <img src= img/M/Bolso/a12.jpeg width="10%"alt= ""></li>
+        </ul>
+      </section>
+      </div>
+    </center>
+  </br>
+
+  <br>
+  <center>
+    <div class="borde2">
+       <br> <h2> Manos Libres </h2>
+  </br>
+  <p> Les ofrecemos este estilo para esas personas que salen regularmente, un bolso practico para cualquier ocasión casuales como formales. Este producto contiene 5 espacios para almacenar objetos pequeños, tiene un zipper por abajo que si se abre expande su capacidad para guardar.  ¡por tan solo 14.900 colones! </p>
+  </div>
+  </center>
+  </br>
+
+<br>
+    <center>
+          <div id="slide-wrap">
+           <section class= "slider">
+            <ul class= "a1">
+              <li> <img src= img/M/Manoslibres/1.jpeg width="20%"alt= ""></li>
+              <li> <img src= img/M/Manoslibres/2.jpeg width="20%"alt= ""></li>
+              <li> <img src= img/M/Manoslibres/3.jpeg width="20%"alt= ""></li>
+              <li> <img src= img/M/Manoslibres/4.jpeg width="20%"alt= ""></li>
+            </ul>
+          </section>
+          </div>
+        </center>
+</br>
+        <br>
+        <center>
+          <div class="borde3">
+                      <div class="second-header">
+                        <ul>
+                          <br>
+                          <li>
+                            <a href="Billeteras.html" class="button2"> Billeteras </a>
+                          </li>
+                          </br>
+                          <li>
+                            <a href="Bisutería.html" class="button2"> Bisutería </a>
+                          </li>
+                          <br>
+                          <li>
+                            <a href="Bolsos.html" class="button2"> Bolsos </a>
+                          </li>
+                          </br>
+                          <li>
+                            <a href="Mochilas.html" class="button2"> Mochilas </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                    </center>
+                  </br>
+
+                  <!---footer--->
+
+                  <footer>
+                  <div class ="icon-text-text">
+                  <ul class="social">
+                    <li>
+                      <a href="mailto:funkissheredia@gmail.com">
+                        <i class="fa fa-envelope-o" ></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.facebook.com/pages/category/Clothing-Store/Fun-kiss-Paseo-de-las-Flores-520586444732665/">
+                        <i class= "fa fa-facebook" ></i>
+                      </a>
+                    </li>
+                  </ul>
+                  </div>
+                  </footer>
+
+
+                  <center>
+                  <footer>
+                    <div class="footer2">
+                     <p> &copy; Funkiss 2019 </p>
+                     </div>
+                  </footer>
+                  </center>
+
+
+      <!---scripts--->
+      <script>
+
+      $(document).ready(function(){
+        $('.a1').bxSlider({
+          mode: 'fade'
+        })
+      })
+
+      $(document).ready(function(){
+            $('.a2').bxSlider({
+              mode: 'fade'
+            })
+          })
+
+          $(document).ready(function(){
+                $('.a3').bxSlider({
+                  mode: 'fade'
+                })
+              })
+
+              $(document).ready(function(){
+                    $('.a4').bxSlider({
+                      mode: 'fade'
+                    })
+                  })
+                  $(document).ready(function(){
+                        $('.a5').bxSlider({
+                          mode: 'fade'
+                        })
+                      })
+                      $(document).ready(function(){
+                            $('.a6').bxSlider({
+                              mode: 'fade'
+                            })
+                          })
+                          $(document).ready(function(){
+                                $('.a7').bxSlider({
+                                  mode: 'fade'
+                                })
+                              })
+                              $(document).ready(function(){
+                                    $('.a8').bxSlider({
+                                      mode: 'fade'
+                                    })
+                                  })
+                                  $(document).ready(function(){
+                                        $('.a9').bxSlider({
+                                          mode: 'fade'
+                                        })
+                                      })
+                                      $(document).ready(function(){
+                                            $('.a10').bxSlider({
+                                              mode: 'fade'
+                                            })
+                                          })
+                                          $(document).ready(function(){
+                                                $('.a11').bxSlider({
+                                                  mode: 'fade'
+                                                })
+                                              })
+                                              $(document).ready(function(){
+                                                    $('.a12').bxSlider({
+                                                      mode: 'fade'
+                                                    })
+                                                  })
+
+
+      </script>
+
+  </body>
+</html>
