@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Bisutería</title>
+
+    <!--- iconos--->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!---css--->
+<link rel="stylesheet" href="/css/bisu.css">
+
+
+<!--- slider--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+  </head>
+  <body>
+
+
+    <div id="wrapper">
+
+        <!-- BANNER WRAPPER -->
+        <div id="banner-wrapper">
+            <header>
+             <div id="header-inner">
+              <a href= "index.html" id= "logo">
+              <img src="img/ap/ap0.png" alt= "Funkiss.com">
+              </a>
+              <nav>
+                <a href="#" id="menu-icon">
+                  <i class="fa fa-bars"></i>
+                </a>
+                <ul>
+                  <li>
+                    <a href="index.html" class="button" class= "current"> Información </a>
+                  </li>
+                  <li>
+                    <a href="servicios.html" class= "button"> Servicios </a>
+                  </li>
+                  <li>
+                    <a href="Productos.html" class="button"> Productos </a>
+                  </li>
+                  <li>
+                    <a href="qys.html" class="button"> Contacto </a>
+                  </li>
+                </ul>
+                   </nav>
+              </div>
+          </header>
+<br>
+<center>
+<div class="borde">
+<center> <h1> Bisutería </h1> </center>
+<section>
+<h2> Pulsera </h2>
+<p>Tenemos pulseras de diferentes colores y modelos para gustos extravagantes o sencillos. tenemos pulseras decoradas de tématica espiritual, cómo: el mal de ojo y el arbol de la vida. tenemos pulseras de animales: búhos, elefanes y mariposas. Por esta semana de descuento se las dejamos en 1000 colones cada una. ¡aproveche!</p>
+</div>
+</br>
+</section>
+</div>
+<center>
+</br>
+
+<center>
+<div id="slide.wrap">
+ <section class= "slider">
+  <ul class= "b5">
+  <li> <img src= img/M/Billeteras/b5.jpeg width="10%" alt= ""></li>
+  <li> <img src= img/M/Billeteras/b6.jpeg width="10%" alt= ""></li>
+  <li> <img src= img/M/Billeteras/b7.jpeg width="10%" alt= ""></li>
+  <li> <img src= img/M/Billeteras/b8.jpeg width="10%" alt= ""></li>
+  </section>
+</div>
+</center>
+
+<br>
+<center>
+  <div class="borde2">
+     <br> <h2> Aretes </h2>
+     <br> </br>
+<p>En aretes le ofrecemos una variedad que ninguna tienda le podrá ofrecer, le vendemos cartones de aretes con hasta 12 pares de aretes ¡por tan solo 1000 colones! tenemos colores variados incluyendo dorado y plateado. </p>
+</br>
+</div>
+</center>
+</br>
+
+<center>
+<div id="slide.wrap">
+ <section class= "slider">
+  <ul class= "b5">
+  <li> <img src= img/M/Billeteras/b5.jpeg width="10%" alt= ""></li>
+  <li> <img src= img/M/Billeteras/b6.jpeg width="10%" alt= ""></li>
+  <li> <img src= img/M/Billeteras/b7.jpeg width="10%" alt= ""></li>
+  <li> <img src= img/M/Billeteras/b8.jpeg width="10%" alt= ""></li>
+  </section>
+</div>
+</center>
+
+<br>
+<center>
+  <div class="borde3">
+              <div class="second-header">
+                <ul>
+                  <br>
+                  <li>
+                    <a href="Billeteras.html" class="button2"> Billeteras </a>
+                  </li>
+                  </br>
+                  <li>
+                    <a href="Bisutería.html" class="button2"> Bisutería </a>
+                  </li>
+                  <br>
+                  <li>
+                    <a href="Bolsos.html" class="button2"> Bolsos </a>
+                  </li>
+                  </br>
+                  <li>
+                    <a href="Bolsos.html" class="button2"> Mochilas </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            </center>
+          </br>
+             </div>
+
+             <!---footer--->
+
+             <footer>
+             <div class ="icon-text-text">
+             <ul class="social">
+               <li>
+                 <a href="mailto:funkissheredia@gmail.com">
+                   <i class="fa fa-envelope-o" ></i>
+                 </a>
+               </li>
+               <li>
+                 <a href="https://www.facebook.com/pages/category/Clothing-Store/Fun-kiss-Paseo-de-las-Flores-520586444732665/">
+                   <i class= "fa fa-facebook" ></i>
+                 </a>
+               </li>
+             </ul>
+             </div>
+             </footer>
+
+
+             <center>
+             <footer>
+               <div class="footer2">
+                <p> &copy; Funkiss 2019 </p>
+                </div>
+             </footer>
+             </center>
+
+      <!---scripts--->
+      <script>
+
+      $(document).ready(function(){
+        $('.b1').bxSlider({
+          mode: 'fade'
+        })
+      })
+
+      $(document).ready(function(){
+            $('.b2').bxSlider({
+              mode: 'fade'
+            })
+          })
+
+          $(document).ready(function(){
+                $('.b3').bxSlider({
+                  mode: 'fade'
+                })
+              })
+
+              $(document).ready(function(){
+                    $('.b4').bxSlider({
+                      mode: 'fade'
+                    })
+                  })
+                  $(document).ready(function(){
+                        $('.b5').bxSlider({
+                          mode: 'fade'
+                        })
+                      })
+                      $(document).ready(function(){
+                            $('.b6').bxSlider({
+                              mode: 'fade'
+                            })
+                          })
+                          $(document).ready(function(){
+                                $('.b7').bxSlider({
+                                  mode: 'fade'
+                                })
+                              })
+                              $(document).ready(function(){
+                                    $('.b8').bxSlider({
+                                      mode: 'fade'
+                                    })
+                                  })
+                                  $(document).ready(function(){
+                                        $('.b9').bxSlider({
+                                          mode: 'fade'
+                                        })
+                                      })
+                                      $(document).ready(function(){
+                                            $('.b10').bxSlider({
+                                              mode: 'fade'
+                                            })
+                                          })
+
+
+      </script>
+
+  </body>
+</html>
