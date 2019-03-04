@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <center> <title>Billeteras</title> </center>
+
+    <!--- iconos--->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!---css--->
+<link rel="stylesheet" href="/css/Bille.css">
+
+
+<!--- slider--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+  </head>
+  <body>
+
+
+    <div id="wrapper">
+
+        <!-- BANNER WRAPPER -->
+        <div id="banner-wrapper">
+            <header>
+             <div id="header-inner">
+              <a href= "index.html" id= "logo">
+              <img src="img/ap/ap0.png" alt= "Funkiss.com">
+              </a>
+              <nav>
+                <a href="#" id="menu-icon">
+                  <i class="fa fa-bars"></i>
+                </a>
+                <ul>
+                  <li>
+                    <a href="index.html" class="button" class= "current"> Información </a>
+                  </li>
+                  <li>
+                    <a href="servicios.html" class= "button "> Servicios </a>
+                  </li>
+                  <li>
+                    <a href="Productos.html" class="button"> Productos </a>
+                  </li>
+                  <li>
+                    <a href="qys.html" class="button"> Contacto </a>
+                  </li>
+                </ul>
+                   </nav>
+              </div>
+          </header>
+<br>
+<center>
+    <div class="borde">
+<center><br><h1> Billeteras </h1></br></center>
+<br>
+<section>
+<h2> Estilo Sobre</h2>
+<p>Estas billeteras son de total comodidad para quien las posea ya que su único estilo de tipo sobre permite guardar cómodamente hasta 12 tarjetas de cualquier tipo. consta de 2 compartimientos para billetes, y uno para monedas. ¡Todo esto por el increíble precio de 12.900 colones!</p>
+</section>
+</br>
+</div>
+</center>
+</br>
+     <div id="slide.wrap">
+       <section class="slider">
+        <ul class= "b1">
+          <li> <img src= img/M/Billeteras/b1.jpeg width="10%"alt= ""></li>
+        <li> <img src= img/M/Billeteras/b2.jpeg width="10%" alt= ""></li>
+        <li> <img src= img/M/Billeteras/b3.jpeg width="10%"alt= ""></li>
+        <li> <img src= img/M/Billeteras/b4.jpeg width="10%" alt= ""></li>
+      </ul>
+      </section>
+    </div>
+    <br>
+<center>
+<div class="borde2">
+      <br> <h2> Billeteras dobles </h2></br>
+<p>Las billeteras dobles son la mejor opción para quien salga mucho, este estilo consta de dos billeteras que poseen, cada una un almacenamiento para guardar billetes, 10 espacios para tarjetas y uno espacio para guardar monedas. ¡Su precio de 15.900 colones es perfecto para los beneficios que esta única billetera puede dar!</p>
+</div>
+</center>
+</br>
+            <center>
+           <div id="slide.wrap">
+             <section class= "slider">
+              <ul class= "b5">
+              <li> <img src= img/M/Billeteras/b5.jpeg width="10%" alt= ""></li>
+              <li> <img src= img/M/Billeteras/b6.jpeg width="10%" alt= ""></li>
+              <li> <img src= img/M/Billeteras/b7.jpeg width="10%" alt= ""></li>
+              <li> <img src= img/M/Billeteras/b8.jpeg width="10%" alt= ""></li>
+              </section>
+            </div>
+            </center>
+
+<br>
+<center>
+  <div class="borde3">
+              <div class="second-header">
+                <ul>
+                  <br>
+                  <li>
+                    <a href="Billeteras.html" class="button2"> Billeteras </a>
+                  </li>
+                  </br>
+                  <li>
+                    <a href="Bisutería.html" class="button2"> Bisutería </a>
+                  </li>
+                  <br>
+                  <li>
+                    <a href="Bolsos.html" class="button2"> Bolsos </a>
+                  </li>
+                  </br>
+                  <li>
+                    <a href="Bolsos.html" class="button2"> Mochilas </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            </center>
+          </br>
+             </div>
+
+             <!---footer--->
+
+             <footer>
+             <div class ="icon-text-text">
+             <ul class="social">
+               <li>
+                 <a href="mailto:funkissheredia@gmail.com">
+                   <i class="fa fa-envelope-o" ></i>
+                 </a>
+               </li>
+               <li>
+                 <a href="https://www.facebook.com/pages/category/Clothing-Store/Fun-kiss-Paseo-de-las-Flores-520586444732665/">
+                   <i class= "fa fa-facebook" ></i>
+                 </a>
+               </li>
+             </ul>
+             </div>
+             </footer>
+
+
+             <center>
+             <footer>
+               <div class="footer2">
+                <p> &copy; Funkiss 2019 </p>
+                </div>
+             </footer>
+             </center>
+
+
+      <!---scripts--->
+      <script>
+
+      $(document).ready(function(){
+        $('.b1').bxSlider({
+          mode: 'fade'
+        })
+      })
+
+      $(document).ready(function(){
+            $('.b2').bxSlider({
+              mode: 'fade'
+            })
+          })
+
+          $(document).ready(function(){
+                $('.b3').bxSlider({
+                  mode: 'fade'
+                })
+              })
+
+              $(document).ready(function(){
+                    $('.b4').bxSlider({
+                      mode: 'fade'
+                    })
+                  })
+                  $(document).ready(function(){
+                        $('.b5').bxSlider({
+                          mode: 'fade'
+                        })
+                      })
+                      $(document).ready(function(){
+                            $('.b6').bxSlider({
+                              mode: 'fade'
+                            })
+                          })
+                          $(document).ready(function(){
+                                $('.b7').bxSlider({
+                                  mode: 'fade'
+                                })
+                              })
+                              $(document).ready(function(){
+                                    $('.b8').bxSlider({
+                                      mode: 'fade'
+                                    })
+                                  })
+                                  $(document).ready(function(){
+                                        $('.b9').bxSlider({
+                                          mode: 'fade'
+                                        })
+                                      })
+                                      $(document).ready(function(){
+                                            $('.b10').bxSlider({
+                                              mode: 'fade'
+                                            })
+                                          })
+
+      </script>
+  </body>
+</html>
