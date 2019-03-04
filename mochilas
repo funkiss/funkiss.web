@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Bolsos</title>
+
+    <!--- iconos--->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!---css--->
+<link rel="stylesheet" href="/css/moch.css">
+
+
+<!--- slider--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+  </head>
+  <body>
+
+
+    <div id="wrapper">
+
+        <!-- BANNER WRAPPER -->
+        <div id="banner-wrapper">
+            <header>
+             <div id="header-inner">
+              <a href= "index.html" id= "logo">
+              <img src="img/ap/ap0.png" alt= "Funkiss.com">
+              </a>
+              <nav>
+                <a href="#" id="menu-icon">
+                  <i class="fa fa-bars"></i>
+                </a>
+                <ul>
+                  <li>
+                    <a href="index.html" class="button" class= "current"> Información </a>
+                  </li>
+                  <li>
+                    <a href="servicios.html" class= "button"> Servicios </a>
+                  </li>
+                  <li>
+                    <a href="Productos.html" class="button"> Productos </a>
+                  </li>
+                  <li>
+                    <a href="qys.html" class="button"> Contacto </a>
+                  </li>
+                </ul>
+                   </nav>
+              </div>
+          </header>
+
+
+          <br>
+          <center>
+            <div class="borde">
+          <section>
+          <br> <h2> Mochilas </h2> </br>
+<p> Para las chicas tenemos estilos a la moda de conejo mas una billetera, de diferentes colores como: negro, blanco y café. las mochilas poseen un compartimiento para almacenar una laptop, y 3 espacios para objetos regulares. La billetera trae 8 espacios para almacenar tarjetas, y un compartimiento para billetes. Este combo de moda tiene el precio de 15.900 colones. ¡Aproveche! </p>
+          </div>
+          </br>
+          </section>
+          </div>
+          </center>
+          </br>
+
+          <!---slider--->
+              <div id="slide-wrap">
+               <section class= "slider">
+                <ul class= "1">
+                  <li> <img src= img/M/Mochilas/1.jpeg width="50%"alt=></li>
+                  <li> <img src= img/M/Mochilas/2.jpeg width="50%"alt=></li>
+                  <li> <img src= img/M/Mochilas/3.jpeg width="50%"alt= </li>
+                  <li> <img src= img/M/Mochilas/4.jpeg width="50%"alt= ></li>
+                  <li> <img src= img/M/Mochilas/5.jpeg width="50%"alt= ></li>
+                </ul>
+               </section>
+             </div>
+
+
+      <br>
+      <center>
+        <div class="borde2">
+      <section>
+      <br> <h2> Mochilas coctel. </h2> </br>
+      <p>Este único estilo es versatil para cualquier salida que se desee. Posee 3 espacios, cada espacio contiene 3 compartimientos para guardar obejtos regulares. tenemos en café, blanco y negro. cada uno cuesta 16.900 colones.</p>
+      </div>
+      </br>
+      </section>
+      </center>
+      </br>
+
+          <div id="slide-wrap">
+            <section class= "slider">
+              <ul class= "7">
+                <li> <img src= img/M/Mochilas/7.jpeg width="50%"alt= ""></li>
+                <li> <img src= img/M/Mochilas/8.jpeg width="50%"alt= ""></li>
+                <li> <img src= img/M/Mochilas/10.jpeg width="50%"alt= ""></li>
+                <li> <img src= img/M/Mochilas/13.jpeg width="50%"alt= ""></li>
+                <li> <img src= img/M/Mochilas/17.jpeg width="50%"alt= ""></li>
+              </ul>
+          </section>
+        </div>
+
+          <br>
+          <center>
+            <div class="borde3">
+          <section>
+          <br> <h2> Bolso doble </h2> </br>
+          <p>Este estilo juvenil combina para todas las ocasiones. Posee 3 espacios, cada espacio contiene 3 compartimientos para guardar obejtos regulares. tenemos en café, blanco y negro. cada uno cuesta 16.900 colones. </p>
+          </section>
+          </div>
+          </center>
+          </br>
+
+
+
+              <div id="slide-wrap">
+                <section class= "slider">
+                  <ul class= "12">
+                      <li> <img src= img/M/Mochilas/12.jpeg width="24%"alt= ""></li>
+                      <li> <img src= img/M/Mochilas/14.jpeg width="24%"alt= ""></li>
+                      <li> <img src= img/M/Mochilas/15.jpeg width="24%"alt= ""></li>
+                      <li> <img src= img/M/Mochilas/16.jpeg width="24%"alt= ""></li>
+                    </ul>
+                  </section>
+                  </div>
+
+
+              <br>
+              <center>
+                <div class="borde4">
+                            <div class="second-header">
+                              <ul>
+                                <br>
+                                <li>
+                                  <a href="Billeteras.html" class="button2"> Billeteras </a>
+                                </li>
+                                </br>
+                                <li>
+                                  <a href="Bisutería.html" class="button2"> Bisutería </a>
+                                </li>
+                                <br>
+                                <li>
+                                  <a href="Bolsos.html" class="button2"> Bolsos </a>
+                                </li>
+                                </br>
+                                <li>
+                                  <a href="Mochilas.html" class="button2"> Mochilas </a>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                          </center>
+                        </br>
+
+
+                  <!---footer--->
+
+                  <footer>
+                  <div class ="icon-text-text">
+                  <ul class="social">
+                    <li>
+                      <a href="mailto:funkissheredia@gmail.com">
+                        <i class="fa fa-envelope-o" ></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.facebook.com/pages/category/Clothing-Store/Fun-kiss-Paseo-de-las-Flores-520586444732665/">
+                        <i class= "fa fa-facebook" ></i>
+                      </a>
+                    </li>
+                  </ul>
+                  </div>
+                  </footer>
+
+
+                  <center>
+                  <footer>
+                    <div class="footer2">
+                     <p> &copy; Funkiss 2019 </p>
+                     </div>
+                  </footer>
+                  </center>
+      <!---scripts--->
+      <script>
+
+      $(document).ready(function(){
+        $('.1').bxSlider({
+          mode: 'fade'
+        })
+      })
+
+      $(document).ready(function(){
+            $('.2').bxSlider({
+              mode: 'fade'
+            })
+          })
+
+          $(document).ready(function(){
+                $('.3').bxSlider({
+                  mode: 'fade'
+                })
+              })
+
+              $(document).ready(function(){
+                    $('.4').bxSlider({
+                      mode: 'fade'
+                    })
+                  })
+                  $(document).ready(function(){
+                        $('.5').bxSlider({
+                          mode: 'fade'
+                        })
+                      })
+                      $(document).ready(function(){
+                            $('.6').bxSlider({
+                              mode: 'fade'
+                            })
+                          })
+                          $(document).ready(function(){
+                                $('.7').bxSlider({
+                                  mode: 'fade'
+                                })
+                              })
+                              $(document).ready(function(){
+                                    $('.8').bxSlider({
+                                      mode: 'fade'
+                                    })
+                                  })
+                                  $(document).ready(function(){
+                                        $('.9').bxSlider({
+                                          mode: 'fade'
+                                        })
+                                      })
+                                      $(document).ready(function(){
+                                            $('.11').bxSlider({
+                                              mode: 'fade'
+                                            })
+                                          })
+                                          $(document).ready(function(){
+                                                $('.12').bxSlider({
+                                                  mode: 'fade'
+                                                })
+                                              })
+                                              $(document).ready(function(){
+                                                    $('.13').bxSlider({
+                                                      mode: 'fade'
+                                                    })
+                                                  })
+                                                  $(document).ready(function(){
+                                                        $('.14').bxSlider({
+                                                          mode: 'fade'
+                                                        })
+                                                      })
+                                                      $(document).ready(function(){
+                                                            $('.15').bxSlider({
+                                                              mode: 'fade'
+                                                            })
+                                                          })
+                                                          $(document).ready(function(){
+                                                                $('16').bxSlider({
+                                                                  mode: 'fade'
+                                                                })
+                                                              })
+                                                              $(document).ready(function(){
+                                                                    $('.17').bxSlider({
+                                                                      mode: 'fade'
+                                                                    })
+                                                                  })
+
+
+      </script>
+
+  </body>
+</html>
