@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Funkiss</title>
+
+    <!--- iconos--->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!---css--->
+<link rel="stylesheet" href="/css/qys.css">
+
+
+<!--- slider--->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+  </head>
+  <body>
+
+
+    <div id="wrapper">
+
+        <!-- BANNER WRAPPER -->
+        <div id="banner-wrapper">
+            <header>
+             <div id="header-inner">
+              <a href= "index.html" id= "logo">
+              <img src="img/ap/ap0.png" alt= "Funkiss.com">
+              </a>
+              <nav>
+                <a href="#" id="menu-icon">
+                  <i class="fa fa-bars"></i>
+                </a>
+                <ul>
+                  <li>
+                    <a href="index.html" class="button1" class= "current"> Información </a>
+                  </li>
+                  <li>
+                    <a href="servicios.html" class= "button1 "> Servicios </a>
+                  </li>
+                  <li>
+                    <a href="Productos.html" class="button1"> Productos </a>
+                  </li>
+                  <li>
+                    <a href="qys.html" class="button1">  Contacto </a>
+                  </li>
+                </ul>
+                   </nav>
+              </div>
+          </header>
+<center>
+<br>
+<div class="borde1">
+  <br> <center> <h1>Contacto</h1> </center> </br>
+
+            <p>En esta sección usted nos podrá ubicar y comunicar algún incoveniente sobre el trato de parte del personal como también la calidad de la mercancía.</p>
+  <center>
+    </div>
+  </br>
+  <div class="borde2">
+      <h2> Ubicación </h2>
+      </div>
+    <br> <iframe src="https://satellites.pro/plano/mapa_de_Costa_Rica#9.985490,-84.110743,18"></iframe>
+  </br>
+
+<br>
+   <div class="borde3">
+   <center ><h1> Quejas y Sugerencias </h1> </center>
+</div>
+ </br>
+</center>
+
+<center>
+<form  action="qys.php" method="post">
+  <input type="text" name="Nombre" placeholder="Nombre y Apellido" required>
+  <input type="text" name="Correo" placeholder="Correo" required>
+  <input type="text" name="telefono" placeholder="Número telefónico" required>
+  <textarea name="Mensaje" placeholder="Mensaje..." required>
+  </textarea>
+  <input type="submit" value="Enviar" id="boton">
+</form>
+</center>
+
+<center>
+<br>
+<br>
+<div class="borde4">
+
+      <h2> Teléfonos </h2>
+<br>
+<ul>
+  <li>
+    Tienda:22563000
+  </li>
+</br>
+  <br>
+  <li>
+    Kiosco:22615487
+  </li>
+</br>
+</ul>
+ </div>
+</br>
+</br>
+</center>
+<!---footer--->
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<footer>
+<div class ="icon-text-text">
+<ul class="social">
+  <li>
+    <a href="mailto:funkissheredia@gmail.com">
+      <i class="fa fa-envelope-o" ></i>
+    </a>
+  </li>
+  <li>
+    <a href="https://www.google.com/maps/place/Mall+Paseo+de+Las+Flores/@9.9849791,-84.1136236,16.75z/data=!4m5!3m4!1s0x8fa0fad7f1555555:0x71e99e7fb8864f87!8m2!3d9.9850021!4d-84.1112603">
+      <i class= "fa fa-facebook" ></i>
+    </a>
+  </li>
+</ul>
+</div>
+</footer>
+
+<center>
+<footer>
+  <div class="footer2">
+   <p> &copy; Funkiss 2019 </p>
+   </div>
+</footer>
+<center>
+
+  </body>
+</html>
